@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.MicroservicesDemo</groupId>
-	<artifactId>DiscoverySevice</artifactId>
+	<artifactId>DiscoveryService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>DiscoverySevice</name>
 	<description>Eureka Discovery Server</description>

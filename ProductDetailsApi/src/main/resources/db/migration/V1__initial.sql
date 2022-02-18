@@ -4,3 +4,5 @@ CREATE TABLE product
  code VARCHAR(255) NOT NULL UNIQUE,
  cost DECIMAL NOT NULL
  );
+
+INSERT INTO product (name, code, cost) VALUES ("Bag", "TN6857345", 100);

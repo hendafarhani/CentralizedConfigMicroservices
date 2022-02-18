@@ -27,9 +27,9 @@ public class ProductsController {
         return env.getProperty("specific.code");
     }
 
-    @GetMapping
-    public ProductDto productDtoDetails(@PathVariable("id") String id) throws Exception {
-        if (id != null && !id.isEmpty()) {
+    @GetMapping("/{id}")
+    public ProductDto productDtoDetails(@PathVariable Long id) throws Exception {
+        if (id != null) {
             ProductDto productDto = new ProductDto("product", "98943GK", new BigDecimal(100));
             return productDto;
         }
