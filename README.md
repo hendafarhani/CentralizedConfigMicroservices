@@ -1,6 +1,6 @@
 # CentralizedConfigMicroservices
 
-Following the project's structure:
+## Project's structure:
 
 ![Alt text](MicroservicesCentralizedConfig.png?raw=true "Project structure")
 
