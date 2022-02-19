@@ -19,4 +19,4 @@
 - Java8.
  
 Check this article for more details: [Read more](https://pages.github.com/) <br />
-Microservices architecture explaination? [Read more](https://www.linkedin.com/pulse/micro-services-architecture-henda-farhani/)
+[Microservices architecture explained](https://www.linkedin.com/pulse/micro-services-architecture-henda-farhani/)
