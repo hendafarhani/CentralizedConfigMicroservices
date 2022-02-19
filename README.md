@@ -18,5 +18,5 @@ Following the project's structure:
 ###### Language:
 - Java8.
  
-Check this article for more details: [Link](https://pages.github.com/)
-What is the microservices architecture? [Link](https://www.linkedin.com/pulse/micro-services-architecture-henda-farhani/)
+Check this article for more details: [Read more](https://pages.github.com/) <br />
+Microservices architecture explaination? [Read more](https://www.linkedin.com/pulse/micro-services-architecture-henda-farhani/)
