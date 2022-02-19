@@ -1,8 +1,22 @@
 # CentralizedConfigMicroservices
 
+Following the project's structure:
+
 ![Alt text](MicroservicesCentralizedConfig.png?raw=true "Project structure")
 
-This project uses Flyway, Lombok, spring data-jpa, modelMapper, mysql connector java
-Spring cloud, spring data, spring and spring boot.
+###### Libraries:
+- Flyway.
+- Lombok.
+- ModelMapper.
+- MySQL connector java.
+
+###### Framework:
+- Spring and spring boot.
+- Spring cloud. 
+- Spring data.
+
+###### Language:
+- Java8.
  
-Read this article for more details: Link to linkedin article
+Check this article for more details: [Link](https://pages.github.com/)
+What is the microservices architecture? [Link](https://www.linkedin.com/pulse/micro-services-architecture-henda-farhani/)
