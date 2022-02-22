@@ -18,5 +18,5 @@
 ###### Language:
 - Java8.
  
-Check this article for more details: [Read more](https://pages.github.com/) <br />
+Check this article for more details: [Read more](https://www.linkedin.com/pulse/microservices-centralized-configuration-spring-cloud-state-farhani/) <br />
 [Microservices architecture explained](https://www.linkedin.com/pulse/micro-services-architecture-henda-farhani/)
