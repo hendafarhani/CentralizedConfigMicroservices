@@ -11,7 +11,7 @@
 - MySQL connector java.
 
 ###### Framework:
-- Spring and spring boot.
+- Spring boot.
 - Spring cloud. 
 - Spring data.
 
